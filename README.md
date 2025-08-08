@@ -19,6 +19,7 @@ This repository contains the documentation and report for the **Eco Agent** proj
 |Eco lifestyle agent.pdf         | The final project document in pdf format|
 |Eco lifestyle agent.pptx        | The final project document in ppt format|
 |technology and tools.pdf        | The word document which contains details of tools,technologies and ibm services used for project|
+|Eco Lifestyle Agent Standard notebook| The standard notebook of project
 |README.md                    | The file which contains project summary and details       |
 
 ## Technologies Used
